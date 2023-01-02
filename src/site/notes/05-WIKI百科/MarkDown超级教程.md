@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-wiki/mark-down/","tags":["#Markdown #Obsidian","gardenEntry"]}
+{"dg-publish":true,"permalink":"/05-wiki/mark-down/","tags":["Markdown教程","MD教程","gardenEntry"]}
 ---
 
 
